@@ -1,0 +1,128 @@
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\EFGetStarted.exe
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\EFGetStarted.deps.json
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\EFGetStarted.runtimeconfig.json
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\EFGetStarted.runtimeconfig.dev.json
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\EFGetStarted.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\ref\EFGetStarted.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\EFGetStarted.pdb
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Humanizer.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\EFGetStarted.csprojAssemblyReference.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\EFGetStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\EFGetStarted.AssemblyInfoInputs.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\EFGetStarted.AssemblyInfo.cs
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\EFGetStarted.csproj.CoreCompileInputs.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\EFGetStarted.csproj.CopyComplete
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\EFGetStarted.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\ref\EFGetStarted.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\EFGetStarted.pdb
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore\EFGetStarted\obj\Debug\net5.0\EFGetStarted.genruntimeconfig.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\EFGetStarted.exe
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\EFGetStarted.deps.json
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\EFGetStarted.runtimeconfig.json
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\EFGetStarted.runtimeconfig.dev.json
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\EFGetStarted.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\ref\EFGetStarted.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\EFGetStarted.pdb
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Humanizer.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\EFGetStarted.csprojAssemblyReference.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\EFGetStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\EFGetStarted.AssemblyInfoInputs.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\EFGetStarted.AssemblyInfo.cs
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\EFGetStarted.csproj.CoreCompileInputs.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\EFGetStarted.csproj.CopyComplete
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\EFGetStarted.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\ref\EFGetStarted.dll
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\EFGetStarted.pdb
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\aplicacionEFCore - MySQL\EFGetStarted\obj\Debug\net5.0\EFGetStarted.genruntimeconfig.cache
